@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+motor
+pydantic
+python-dotenv
+langchain-openai
+langchain-core
+httpx
+pymongo
+python-multipart
+streamlit==1.44.0
